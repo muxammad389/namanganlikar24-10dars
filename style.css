@@ -1,0 +1,32 @@
+.executive-header {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.list-inline {
+    display: flex;
+
+}
+
+.executive-nav {
+    text-decoration: none;
+    list-style: none;
+    margin-right: 50px;
+}
+
+.header-nav {
+
+    text-decoration: none;
+    color: #373737;
+}
+
+.header-nav-link {
+    border: #717CFF 3px solid;
+    border: 2px solid #717CFF;
+    border-radius: 11px;
+    text-decoration: none;
+   padding:10px;
+   color: #373737;
+
+}
